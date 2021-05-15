@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>Instagram</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HP-(white)" transform="translate(-821.000000, -2373.000000)">
+            <g id="Footer" transform="translate(0.000000, 2017.000000)">
+                <g id="Social-Links" transform="translate(588.000000, 357.000000)">
+                    <g id="Instagram" transform="translate(234.000000, 0.000000)">
+                        <path d="M8.22580645,10.1612903 L8.22580645,0.483870968" id="Stroke-1" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M29.516129,25.6451613 C29.516129,27.7741935 27.7741935,29.516129 25.6451613,29.516129 L4.35483871,29.516129 C2.22580645,29.516129 0.483870968,27.7741935 0.483870968,25.6451613 L0.483870968,4.35483871 C0.483870968,2.22580645 2.22580645,0.483870968 4.35483871,0.483870968 L25.6451613,0.483870968 C27.7741935,0.483870968 29.516129,2.22580645 29.516129,4.35483871 L29.516129,25.6451613 L29.516129,25.6451613 Z" id="Stroke-3" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M21.7741935,15 C21.7741935,11.2596774 18.7412903,8.22580645 15,8.22580645 C11.2577419,8.22580645 8.22580645,11.2596774 8.22580645,15 C8.22580645,18.7403226 11.2577419,21.7741935 15,21.7741935 C18.7412903,21.7741935 21.7741935,18.7403226 21.7741935,15 L21.7741935,15 Z" id="Stroke-5" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M10.2614516,10.1612903 L0.483387097,10.1612903" id="Stroke-7" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M29.516129,10.1612903 L19.7380645,10.1612903" id="Stroke-9" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M25.6376129,7.25806452 L23.7195484,7.25806452 C23.1805161,7.25806452 22.742129,6.82064516 22.742129,6.2816129 L22.742129,4.36354839 C22.742129,3.82451613 23.1805161,3.38709677 23.7195484,3.38709677 L25.6376129,3.38709677 C26.1766452,3.38709677 26.6130968,3.82451613 26.6130968,4.36354839 L26.6130968,6.2816129 C26.6130968,6.82064516 26.1766452,7.25806452 25.6376129,7.25806452" id="Fill-11" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
